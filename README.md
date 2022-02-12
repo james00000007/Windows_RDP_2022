@@ -1,8 +1,8 @@
-# RDP Windows Server 2019 ✨
+# RDP Windows Server 2022 ✨
 
-**Windows Server 2019 with 2cpu-7gb Ram FREE with Github with RDP Access (ngrok US)**
+**Windows Server 2022 with 2cpu-7gb Ram FREE with Github with RDP Access (ngrok US)**
 
-Repo link: https://github.com/HB-SS/Windows_RDP_2019
+Repo link: https://github.com/HB-SS/Windows_RDP_2022
 
 
 + Click Fork in the right corner of the screen to save it to your Github.
@@ -12,5 +12,5 @@ Repo link: https://github.com/HB-SS/Windows_RDP_2019
 + In Value: visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste Your Authtoken into
 + Press **Add secret**
 + Go to **Action> RDP_2019> Run workflow**
-+ Reload the page and press **RDP_2019> build**
++ Reload the page and press **RDP_2022> build**
 + Press the down arrow on Connect To Your RPD to get IP, User, Password.
